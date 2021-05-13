@@ -1,2 +1,2 @@
 # Streamlit-Projects
-This project includes interactive applications that can be hosted on a web environment.
+This project includes interactive Python applications that can be hosted on a web environment.
